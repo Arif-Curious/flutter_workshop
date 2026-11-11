@@ -90,12 +90,21 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
+<<<<<<< HEAD
             VALUE "FileDescription", "arif_chaudhary_task_2" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "arif_chaudhary_task_2" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "arif_chaudhary_task_2.exe" "\0"
             VALUE "ProductName", "arif_chaudhary_task_2" "\0"
+=======
+            VALUE "FileDescription", "arif_chaudhary_task_1" "\0"
+            VALUE "FileVersion", VERSION_AS_STRING "\0"
+            VALUE "InternalName", "arif_chaudhary_task_1" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "arif_chaudhary_task_1.exe" "\0"
+            VALUE "ProductName", "arif_chaudhary_task_1" "\0"
+>>>>>>> 94ff00f67634cd1c2b42ad6c7e04b89c7e6863a6
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

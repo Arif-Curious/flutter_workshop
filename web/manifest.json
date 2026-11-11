@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "arif_chaudhary_task_2",
     "short_name": "arif_chaudhary_task_2",
+=======
+    "name": "arif_chaudhary_task_1",
+    "short_name": "arif_chaudhary_task_1",
+>>>>>>> 94ff00f67634cd1c2b42ad6c7e04b89c7e6863a6
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

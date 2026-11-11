@@ -7,7 +7,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
 	<string>Arif Chaudhary Task 2</string>
+=======
+	<string>Arif Chaudhary Task 1</string>
+>>>>>>> 94ff00f67634cd1c2b42ad6c7e04b89c7e6863a6
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -15,7 +19,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>arif_chaudhary_task_2</string>
+=======
+	<string>arif_chaudhary_task_1</string>
+>>>>>>> 94ff00f67634cd1c2b42ad6c7e04b89c7e6863a6
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

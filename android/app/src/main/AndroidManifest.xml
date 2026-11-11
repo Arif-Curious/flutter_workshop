@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="arif_chaudhary_task_2"
+=======
+        android:label="arif_chaudhary_task_1"
+>>>>>>> 94ff00f67634cd1c2b42ad6c7e04b89c7e6863a6
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
